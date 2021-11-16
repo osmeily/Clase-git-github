@@ -21,7 +21,7 @@ function showMovies(hero) {
             </div>
             <div class="overview">
                 <h3>overview</h3>
-               ${hero.first_appearance}
+                ${hero.first_appearance}
             </div>
         `
         main.appendChild(movieEl)
